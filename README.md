@@ -3,7 +3,7 @@
 
 Requires to have node installed on your machine.
 Requires postgreSql installed on your machine.
-Requires a config.json file, which hold your credentials:
+Requires a config.json file, which holds your credentials:
 
 {
     "user": "user",
